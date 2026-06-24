@@ -1,9 +1,9 @@
 {
-  "name": "arquitectura-coloquio",
+  "name": "risc-vs-cisc",
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "homepage": "https://marcelomastroiani.github.io/arquitectura-coloquio",
+  "homepage": "https://marcelomastroiani.github.io/risc-vs-ciscs",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
